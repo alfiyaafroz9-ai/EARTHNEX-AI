@@ -101,7 +101,6 @@ def minerals():
 
 class AgentRequest(BaseModel):
     message: str = Field(min_length=1, max_length=2000)
-
 @app.post("/api/agent/chat")
 async def agent_chat(request: AgentRequest):
     msg = request.message.strip()
@@ -125,3 +124,4 @@ async def agent_chat(request: AgentRequest):
         context = {}
     return {"agent": "EARTHNEX AI", "mode": "grounded-starter",
             "answer": answer, "context": context}
+           
