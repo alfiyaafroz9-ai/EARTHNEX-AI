@@ -78,3 +78,45 @@ AI-assisted tools, including ChatGPT, were used for development assistance, debu
 EARTHNEX AI — Hack-A-Sol 5.0
 
 **GitHub Repository:** https://github.com/alfiyaafroz9-ai/EARTHNEX-AI
+## 12. Credits & Acknowledgements
+
+### 1. Technologies Used
+- Flutter & Dart — Frontend development.
+- Python — Backend development and data processing.
+- FastAPI — Backend API development (where implemented).
+
+### 2. Data Sources & References
+- NASA Earthdata — Earth science data discovery and research.
+- NASA Open APIs — Public API documentation and data resources.
+- Other environmental and Earth observation data providers, wherever integrated, are acknowledged through their respective source links and licences.
+
+### 3. Open-Source Libraries & Frameworks
+We sincerely acknowledge the developers and contributors of the open-source libraries, frameworks and tools used in EARTHNEX AI.
+
+All third-party dependencies are referenced through:
+- `frontend/pubspec.yaml`
+- `backend/requirements.txt`
+
+We respect the applicable open-source licences and attribution requirements of these dependencies.
+
+### 4. AI Assistance Disclosure
+
+AI-assisted tools were used during the development of EARTHNEX AI:
+
+- **ChatGPT (GPT – OpenAI):** Used for coding assistance, debugging guidance, technical problem-solving and development suggestions.
+- **Claude (Anthropic):** Used for coding assistance, reviewing implementation approaches and technical guidance.
+
+The EARTHNEX AI team reviewed and evaluated the implementation, made development decisions and takes responsibility for the submitted project and its functionality.
+
+### 5. Acknowledgements
+
+We acknowledge NASA and the global open-data community for making Earth science resources accessible for research, exploration and innovation.
+
+We also thank the organizers of **Hack-A-Sol 5.0, IIIT Naya Raipur**, for providing a platform to develop and present innovative technological solutions.
+
+---
+
+**Project Name:** EARTHNEX AI  
+**Project Category:** Sustainability / Earth System Intelligence  
+**Team Name:** EARTHNEX AI  
+**GitHub Repository:** https://github.com/alfiyaafroz9-ai/EARTHNEX-AI
